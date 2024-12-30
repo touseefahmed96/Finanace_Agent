@@ -3,7 +3,6 @@ python-dotenv
 yfinance
 packaging
 duckduckgo-search
-fastapi
-uvicorn
+streamlit
 groq
 openai
